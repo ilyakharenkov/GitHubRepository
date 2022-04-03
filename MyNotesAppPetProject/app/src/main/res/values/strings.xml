@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <!-- Name one notes_item default --> <!-- Имя одного notes_item по умолчанию -->
+    <string name="name_file">No name</string>
+    <!-- Button add new notes_item --> <!-- Кнопка добавления нового notes_item -->
+    <string name="button_add_new_notes">Add new note</string>
+    <!-- Edit text in activity_edit_notes --> <!-- Edit text in activity_edit_notes -->
+    <string name="edit_text_title">Enter title..</string>
+    <string name="edit_text_description">Enter description..</string>
+    <!-- Button done in activity_edit_notes --> <!-- Кнопка готово в activity_edit_notes -->
+    <string name="button_save_edit_notes">Done</string>
+    <!-- Button delete notes_item --> <!-- Кнопка удаления notes_tem -->
+    <string name="button_delete_notes_item">Del</string>
+
+</resources>
