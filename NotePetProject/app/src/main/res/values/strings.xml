@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Блокнот</string>
+    <!-- Description -->
+    <string name="description_im_note_1">Image note</string>
+    <string name="description_im_note_2">Image delete</string>
+    <!-- navigation_view_menu -->
+    <string name="navigation_view_menu_1">Блокнот</string>
+    <string name="navigation_view_menu_2">Создать</string>
+    <!-- new_note_menu -->
+    <string name="new_note_menu_1">Сохранить</string>
+    <!-- note_item -->
+    <string name="note_item_1">Title</string>
+    <string name="note_item_2">Description</string>
+    <string name="note_item_3">Time</string>
+    <!-- activity_new_note -->
+    <string name="activity_new_note_1">Заголовок</string>
+    <string name="activity_new_note_2">Описание</string>
+</resources>

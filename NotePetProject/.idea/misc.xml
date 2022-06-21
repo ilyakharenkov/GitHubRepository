@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ilia Project/PetProgect/NotePetProject/app/src/main/res/layout/activity_new_note.xml" value="0.25" />
+        <entry key="..\:/Ilia Project/PetProgect/NotePetProject/app/src/main/res/layout/fragment_note.xml" value="0.25" />
+        <entry key="..\:/Ilia Project/PetProgect/NotePetProject/app/src/main/res/layout/note_item.xml" value="0.4" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.29" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/drawable/ic_delete.xml" value="0.294" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.294" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/drawable/ic_note.xml" value="0.294" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/drawable/ic_note_add.xml" value="0.294" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/drawable/ic_save_note.xml" value="0.294" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/layout/activity_new_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/layout/fragment_note.xml" value="0.3651041666666667" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/layout/note_item.xml" value="0.3619791666666667" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/menu/navigation_view.xml" value="0.3625" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/menu/navigation_view_menu.xml" value="0.3625" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/menu/new_note_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.294" />
+        <entry key="..\:/PetProgect/NotePetProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.35260416666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
