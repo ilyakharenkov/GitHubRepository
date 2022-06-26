@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArchitecturePetProject</string>
+    <string name="activity_main_1">User</string>
+    <string name="activity_main_2">Get user</string>
+    <string name="activity_main_3">Enter first name</string>
+    <string name="activity_main_4">Enter last name</string>
+    <string name="activity_main_5">Save user</string>
+</resources>
